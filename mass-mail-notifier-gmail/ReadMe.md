@@ -15,7 +15,7 @@ This script automates sending bulk institutional email notifications to students
 
 ## 🧪 Demo
 
-[📄 View Example Google Sheet]([https://drive.google.com/drive/folders/1GL1YLF3YMnmZGiJdmdRoOSPSYBTKrAFv?usp=sharing])
+[📄 View Example Google Sheet](https://drive.google.com/drive/folders/1GL1YLF3YMnmZGiJdmdRoOSPSYBTKrAFv?usp=sharing)
 
 This sample sheet includes the required structure and the script setup.
 
