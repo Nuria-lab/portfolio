@@ -9,7 +9,7 @@ This script automates sending bulk institutional email notifications to students
 - Logs successes and errors
 
 ## Usage
-- Run the script from the Google Apps Script editor or via the attached button in the Google Sheet
+- Run the script via an attached button on the sheet.
 - Ensure columns `notificado` and `fechaEnvio` exist in the sheet
 - Add new student data and press the notification button to send emails
 
